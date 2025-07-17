@@ -71,6 +71,7 @@ Contains details about sales representatives and their respective regions.
    3. Create a **Line Chart** to display trends for Sales and Profit.
    4. Apply slicers to filter by category, market, or region dynamically.
 
+<img width="573" height="435" alt="image" src="https://github.com/user-attachments/assets/ccf87956-1415-4e4f-b942-5e1c17960f64" />
 
 ---
 
@@ -83,6 +84,7 @@ Contains details about sales representatives and their respective regions.
    3. Create a **Bar Chart** to visualize category-wise profit.
    4. Add slicers for interactivity (e.g., by region or year).
 
+<img width="500" height="438" alt="image" src="https://github.com/user-attachments/assets/117d01a7-a20a-49ca-a399-b2c781061bf2" />
 
 
 ---
@@ -96,6 +98,7 @@ Contains details about sales representatives and their respective regions.
    3. Create a **Pie Chart** or **Donut Chart** to display the sales share.
    4. Add labels to show percentage values dynamically.
 
+<img width="497" height="443" alt="image" src="https://github.com/user-attachments/assets/ca2a7a1f-1f3d-470a-9985-cdd6ea9ec891" />
 
 ---
 
