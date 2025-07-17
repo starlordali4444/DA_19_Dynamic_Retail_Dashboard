@@ -58,6 +58,7 @@ Contains details about sales representatives and their respective regions.
       - `Total Quantity` = `=SUM(Quantity)`.
    4. Build a dynamic KPI table and use symbols to enhance visual appeal (e.g., 💰 for Total Sales).
 
+<img width="1037" height="107" alt="image" src="https://github.com/user-attachments/assets/91306a80-09d1-4dcf-857e-cafca9d1330c" />
 
 ---
 
